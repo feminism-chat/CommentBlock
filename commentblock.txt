@@ -15,5 +15,8 @@ yahoo.com##.yom-comments
 d2.guardian.co.uk##.d2
 washingtonpost.com##.comments
 blogs.nytimes.com###commentsContainer
+nbcnews.com##.commentArea
+nbcnews.com##.discuss_page_break
+msnbc.msn.com###slice2
 !-----------------------For websites using Disqus-----------------------------!
 ###dsq1
