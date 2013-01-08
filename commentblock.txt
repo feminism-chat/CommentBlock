@@ -1,0 +1,19 @@
+[Adblock Plus 1.3.9]
+! Title: CommentBlock
+! Expires: 3 days (update frequency)
+! Homepage: https://github.com/freenode-feminists/CommentBlock
+! License: http://creativecommons.org/licenses/by/3.0/
+! Description: Blocks the comment sections of popular websites
+! 
+! Please report any unblocked comments or problems
+! on github (https://github.com/freenode-feminists/CommentBlock/issues)
+! or via IRC (ircs://chat.freenode.net:6697/%23%23feminist).
+! 
+!-----------------------General comment element filters-----------------------!
+lavanguardia.com##.lv24hcomentario
+yahoo.com##.yom-comments
+d2.guardian.co.uk##.d2
+washingtonpost.com##.comments
+blogs.nytimes.com###commentsContainer
+!-----------------------For websites using Disqus-----------------------------!
+###dsq1
