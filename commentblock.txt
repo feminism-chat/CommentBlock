@@ -18,5 +18,6 @@ blogs.nytimes.com###commentsContainer
 nbcnews.com##.commentArea
 nbcnews.com##.discuss_page_break
 msnbc.msn.com###slice2
+bbc.co.uk##.dna-comments_module.preset_opinion
 !-----------------------For websites using Disqus-----------------------------!
 ###dsq1
