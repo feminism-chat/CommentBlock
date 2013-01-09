@@ -15,6 +15,7 @@ abcnews.go.com##.commentInfo
 bbc.co.uk##.dna-comments_module.preset_opinion
 bloomberg.com###disqus_wrapper
 d2.guardian.co.uk##.d2
+facebook.com##.fbFeedbackContent
 heraldsun.com.au##.group.item-count-2.comments-group
 huffingtonpost.com##.comments
 latimes.com##.comments
