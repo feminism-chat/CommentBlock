@@ -1,0 +1,5 @@
+h2. CommentBlock
+
+AdBlock Plus subscription for comment sections of popular websites
+
+"Subscribe":abp:subscribe?location=http://raw.github.com/freenode-feminists/CommentBlock/master/commentblock.txt&title=CommentBlock
