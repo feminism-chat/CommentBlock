@@ -14,7 +14,10 @@
 abcnews.go.com##.commentInfo
 bbc.co.uk##.dna-comments_module.preset_opinion
 bloomberg.com###disqus_wrapper
+blogs.wsj.com##.postcomments
+cbc.ca###socialcomments
 d2.guardian.co.uk##.d2
+economist.com###comments-area
 facebook.com##.fbFeedbackContent
 heraldsun.com.au##.group.item-count-2.comments-group
 huffingtonpost.com##.comments
@@ -27,9 +30,9 @@ nytimes.com###commentsContainer
 nytimes.com##.commentsContainer
 reuters.com##.articleComments
 slate.com###article_comment_box
+theaustralian.com.au##.story-comments
+thestar.com##.tdComment.tdCommentDefault
 usatoday.com##.comment-module
 washingtonpost.com##.comments
 yahoo.com##.yom-comments
 youtube.com##.comments-section
-theaustralian.com.au##.story-comments
-economist.com###comments-area
