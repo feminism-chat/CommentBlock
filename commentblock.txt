@@ -29,6 +29,7 @@ facebook.com##.fbFeedbackContent
 forbes.com###comments
 forbes.com##.comment_bug
 forbes.com##.comment_bug.article_footer
+gulfnews.com###readersComments
 heraldsun.com.au##.group.item-count-2.comments-group
 huffingtonpost.co.uk##.comments
 huffingtonpost.com##.comments
@@ -49,11 +50,14 @@ politico.com###comments
 reuters.com##.articleComments
 scientificamerican.com###comments
 slate.com###article_comment_box
+spectator.com##.comments
 theatlantic.com###comments
 theaustralian.com.au##.story-comments
+theblaze.com###comments
 thejakartaglobe.com###comment_contents
 thestar.com##.tdComment.tdCommentDefault
 theverge.com##.comments
+townhall.com###comment-control
 usatoday.com##.comment-module
 vice.com##.comments
 washingtonpost.com##.comments
