@@ -14,10 +14,16 @@ lavanguardia.com##.lv24hcomentario
 yahoo.com##.yom-comments
 d2.guardian.co.uk##.d2
 washingtonpost.com##.comments
-blogs.nytimes.com###commentsContainer
+nytimes.com###commentsContainer
+nytimes.com##.commentsContainer
 nbcnews.com##.commentArea
 nbcnews.com##.discuss_page_break
 msnbc.msn.com###slice2
 bbc.co.uk##.dna-comments_module.preset_opinion
+huffingtonpost.com##.comments
+latimes.com##.comments
+reuters.com##.articleComments
+abcnews.go.com##.commentInfo
+usatoday.com##.comment-module
 !-----------------------For websites using Disqus-----------------------------!
 ###dsq1
