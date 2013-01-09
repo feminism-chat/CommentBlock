@@ -2,7 +2,7 @@
 ! Title: CommentBlock
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/freenode-feminists/CommentBlock
-! License: http://creativecommons.org/licenses/by/3.0/
+! License: https://creativecommons.org/licenses/by-nc-sa/3.0/
 ! Description: Blocks the comment sections of popular websites
 ! 
 ! Please report any unblocked comments or problems
