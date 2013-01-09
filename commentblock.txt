@@ -10,20 +10,22 @@
 ! or via IRC (ircs://chat.freenode.net:6697/%23%23feminist).
 ! 
 !-----------------------General comment element filters-----------------------!
-lavanguardia.com##.lv24hcomentario
-yahoo.com##.yom-comments
-d2.guardian.co.uk##.d2
-washingtonpost.com##.comments
-nytimes.com###commentsContainer
-nytimes.com##.commentsContainer
-nbcnews.com##.commentArea
-nbcnews.com##.discuss_page_break
-msnbc.msn.com###slice2
+abcnews.go.com##.commentInfo
 bbc.co.uk##.dna-comments_module.preset_opinion
+d2.guardian.co.uk##.d2
 huffingtonpost.com##.comments
 latimes.com##.comments
+lavanguardia.com##.lv24hcomentario
+msnbc.msn.com###slice2
+nbcnews.com##.commentArea
+nbcnews.com##.discuss_page_break
+nytimes.com###commentsContainer
+nytimes.com##.commentsContainer
 reuters.com##.articleComments
-abcnews.go.com##.commentInfo
+slate.com###article_comment_box
 usatoday.com##.comment-module
+washingtonpost.com##.comments
+yahoo.com##.yom-comments
+youtube.com##.comments-section
 !-----------------------For websites using Disqus-----------------------------!
 ###dsq1
