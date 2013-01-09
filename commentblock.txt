@@ -1,5 +1,5 @@
 ﻿[Adblock Plus 1.3.9]
-! Checksum: hQRR6iDtQt+b03NooRrzzg
+! Checksum: 28PfFFPUsZOjV/iZtiu+zw
 ! Title: CommentBlock
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/freenode-feminists/CommentBlock
@@ -23,6 +23,7 @@ buzzfeed.com##.Contributions
 cbc.ca###socialcomments
 d2.guardian.co.uk##.d2
 dailymail.co.uk###reader-comments
+disqus.com###conversation
 economist.com###comments-area
 facebook.com##.fbFeedbackContent
 forbes.com###comments
@@ -36,15 +37,26 @@ lavanguardia.com##.lv24hcomentario
 mirror.co.uk##.pluck-wrap
 msnbc.msn.com###slice2
 nbcnews.com##.commentArea
+nbcnews.com##.comments_jump
+nbcnews.com##.comments_link
 nbcnews.com##.discuss_page_break
+nbcnews.com##.number_bubble
+npr.org###commentBlock
+npr.org##.comment
 nytimes.com###commentsContainer
 nytimes.com##.commentsContainer
+politico.com###comments
 reuters.com##.articleComments
+scientificamerican.com###comments
 slate.com###article_comment_box
+theatlantic.com###comments
 theaustralian.com.au##.story-comments
+thejakartaglobe.com###comment_contents
 thestar.com##.tdComment.tdCommentDefault
 theverge.com##.comments
 usatoday.com##.comment-module
+vice.com##.comments
 washingtonpost.com##.comments
+wired.com###disqus_thread
 yahoo.com##.yom-comments
 youtube.com##.comments-section
