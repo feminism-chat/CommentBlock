@@ -31,3 +31,5 @@ usatoday.com##.comment-module
 washingtonpost.com##.comments
 yahoo.com##.yom-comments
 youtube.com##.comments-section
+theaustralian.com.au##.story-comments
+economist.com###comments-area
