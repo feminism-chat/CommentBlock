@@ -10,9 +10,12 @@
 ! or via IRC (ircs://chat.freenode.net:6697/%23%23feminist).
 ! 
 !-----------------------General comment element filters-----------------------!
+!------------------------Please keep list alphabetical------------------------!
 abcnews.go.com##.commentInfo
 bbc.co.uk##.dna-comments_module.preset_opinion
+bloomberg.com###disqus_wrapper
 d2.guardian.co.uk##.d2
+heraldsun.com.au##.group.item-count-2.comments-group
 huffingtonpost.com##.comments
 latimes.com##.comments
 lavanguardia.com##.lv24hcomentario
@@ -27,5 +30,3 @@ usatoday.com##.comment-module
 washingtonpost.com##.comments
 yahoo.com##.yom-comments
 youtube.com##.comments-section
-!-----------------------For websites using Disqus-----------------------------!
-###dsq1
