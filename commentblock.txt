@@ -1,4 +1,5 @@
 ﻿[Adblock Plus 1.3.9]
+! Checksum: RCyGE5hviWLyFWrCWYbPfA
 ! Title: CommentBlock
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/freenode-feminists/CommentBlock
@@ -12,17 +13,24 @@
 !-----------------------General comment element filters-----------------------!
 !------------------------Please keep list alphabetical------------------------!
 abcnews.go.com##.commentInfo
+alternet.org##.comments.disqus-comments
 bbc.co.uk##.dna-comments_module.preset_opinion
-bloomberg.com###disqus_wrapper
 blogs.wsj.com##.postcomments
+bloomberg.com###disqus_wrapper
+buzzfeed.com###facebook_conversations
+buzzfeed.com###respond
+buzzfeed.com##.Contributions
 cbc.ca###socialcomments
 d2.guardian.co.uk##.d2
+dailymail.co.uk###reader-comments
 economist.com###comments-area
 facebook.com##.fbFeedbackContent
 heraldsun.com.au##.group.item-count-2.comments-group
+huffingtonpost.co.uk##.comments
 huffingtonpost.com##.comments
 latimes.com##.comments
 lavanguardia.com##.lv24hcomentario
+mirror.co.uk##.pluck-wrap
 msnbc.msn.com###slice2
 nbcnews.com##.commentArea
 nbcnews.com##.discuss_page_break
