@@ -1,5 +1,5 @@
 ﻿[Adblock Plus 1.3.9]
-! Checksum: 28PfFFPUsZOjV/iZtiu+zw
+! Checksum: AAABlEdLOYJdCRJOiQYE0w
 ! Title: CommentBlock
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/freenode-feminists/CommentBlock
