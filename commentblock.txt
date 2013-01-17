@@ -1,5 +1,5 @@
 ﻿[Adblock Plus 1.3.9]
-! Checksum: OhG2L4zNMbbpWdyEXFBYIw
+! Checksum: jmeD7u/1skFfts6J5F1ntQ
 ! Title: CommentBlock
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/freenode-feminists/CommentBlock
@@ -12,7 +12,10 @@
 ! 
 !-----------------------General comment element filters-----------------------!
 !------------------------Please keep list alphabetical------------------------!
+abcnews.go.com###comments
+abcnews.go.com###respond
 abcnews.go.com##.commentInfo
+abcnews.go.com##.commentlist
 alternet.org##.comments.disqus-comments
 bbc.co.uk##.dna-comments_module.preset_opinion
 blogs.wsj.com##.postcomments
@@ -32,32 +35,40 @@ forbes.com###comments
 forbes.com##.comment_bug
 forbes.com##.comment_bug.article_footer
 france24.com###comments
+guardian.co.uk##.comment-count
 gulfnews.com###readersComments
 heraldsun.com.au##.group.item-count-2.comments-group
 huffingtonpost.co.uk##.comments
 huffingtonpost.com##.comments
+huffingtonpost.com##.comments_block_holder
+independent.co.uk##.disqus.greyRuler
+independent.co.uk##.strapLine.gotocomments
+irishtimes.com###realtidbits-comments-wrapper
 latimes.com##.comments
 lavanguardia.com##.lv24hcomentario
 mirror.co.uk##.pluck-wrap
 msnbc.msn.com###slice2
-news.com.au###comments
 nbcnews.com##.commentArea
 nbcnews.com##.comments_jump
 nbcnews.com##.comments_link
 nbcnews.com##.discuss_page_break
 nbcnews.com##.number_bubble
-ninemsn.com.au##.ugc_write
+news.com.au###comments
 ninemsn.com.au###ugc_write_2
+ninemsn.com.au##.ugc_write
 npr.org###commentBlock
 npr.org##.comment
 nytimes.com###commentsContainer
 nytimes.com##.commentsContainer
+pinknews.co.uk##.commentspop
 politico.com###comments
 reuters.com##.articleComments
 rockpapershotgun.com###comments
 scientificamerican.com###comments
 slate.com###article_comment_box
+slate.com##.sl-chunky-button.sl-chunky-comments
 spectator.com##.comments
+spiegel.de##.spCommentsBox.spClearfix
 theatlantic.com###comments
 theaustralian.com.au##.story-comments
 theblaze.com###comments
@@ -70,5 +81,9 @@ usatoday.com##.comment-module
 vice.com##.comments
 washingtonpost.com##.comments
 wired.com###disqus_thread
+wrongingrights.com###comments
+wsj.com###articleTabs_tab_comments
+wsj.com###discussionThreadBox
+wsj.com##.boxlink.boxlink-bubble.boxlink-first.comments
 yahoo.com##.yom-comments
 youtube.com##.comments-section
