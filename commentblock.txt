@@ -1,5 +1,5 @@
 ﻿[Adblock Plus 1.3.9]
-! Checksum: YtzLecqrGfybtWfQyhDi2Q
+! Checksum: omLm1NOFWyI/eEKGxKvs5Q
 ! Title: CommentBlock
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/freenode-feminists/CommentBlock
@@ -20,6 +20,7 @@ abcnews.go.com##.commentlist
 alternet.org##.comments.disqus-comments
 animaltracks.today.com##.discuss_page_break
 bbc.co.uk##.dna-comments_module.preset_opinion
+beforeitsnews.com###comments
 blogs.wsj.com##.postcomments
 bloomberg.com###disqus_wrapper
 breitbart.com###dsq-content
@@ -30,11 +31,13 @@ cbc.ca###socialcomments
 d2.guardian.co.uk##.d2
 dailymail.co.uk###reader-comments
 dailytelegraph.com.au###comments
+damemagazine.com##.col.col-uno
 dawn.com###comments
 disqus.com###conversation
 economist.com###comments-area
 economist.com##.ec-comments-links-box.clearfix
 economist.com##.view-comments
+examiner.com##.comments
 facebook.com##.fbFeedbackContent
 forbes.com###comments
 forbes.com##.comment_bug
@@ -53,6 +56,7 @@ independent.ie###disqus_thread
 irishtimes.com###realtidbits-comments-wrapper
 latimes.com##.comments
 lavanguardia.com##.lv24hcomentario
+metronews.ca###disqus_thread
 mirror.co.uk##.pluck-wrap
 msnbc.msn.com###slice2
 nbcnews.com##.commentArea
@@ -62,6 +66,7 @@ nbcnews.com##.discuss_page_break
 nbcnews.com##.number_bubble
 news.com.au###comments
 news24.com###comments_wrap
+newstatesman.com###content_column_bottom
 ninemsn.com.au###ugc_write_2
 ninemsn.com.au##.ugc_write
 npr.org###commentBlock
@@ -70,8 +75,12 @@ nytimes.com###commentsContainer
 nytimes.com##.commentsContainer
 pinknews.co.uk##.commentspop
 politico.com###comments
+pri.org###box_comments
 reuters.com##.articleComments
 rockpapershotgun.com###comments
+rt.com##.comments_topic
+rt.com##.comments_topic.bb_news
+rt.com##.title_empty.title_comments
 salon.com##.salon-comments-box
 scientificamerican.com###comments
 slate.com###article_comment_box
@@ -85,8 +94,10 @@ theatlanticwire.com##.comments
 theaustralian.com.au##.story-comments
 theblaze.com###comments
 thejakartaglobe.com###comment_contents
+thelocal.se###comments
 thenational.ae###add_comments_block
 thestar.com##.tdComment.tdCommentDefault
+theverge.com###comments
 theverge.com##.comments
 today.com##.commentArea
 townhall.com###comment-control
@@ -99,4 +110,5 @@ wsj.com###articleTabs_tab_comments
 wsj.com###discussionThreadBox
 wsj.com##.boxlink.boxlink-bubble.boxlink-first.comments
 yahoo.com##.yom-comments
+youtube.com###watch7-discussion
 youtube.com##.comments-section
