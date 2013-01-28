@@ -1,5 +1,5 @@
 ﻿[Adblock Plus 1.3.9]
-! Checksum: omLm1NOFWyI/eEKGxKvs5Q
+! Checksum: owvGk+PKrDlvVYRsYLF/tg
 ! Title: CommentBlock
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/freenode-feminists/CommentBlock
@@ -17,10 +17,14 @@ abcnews.go.com###comments
 abcnews.go.com###respond
 abcnews.go.com##.commentInfo
 abcnews.go.com##.commentlist
+aljazeera.com###disqusComment
+aljazeera.net###FeedBacks
+aljazeera.net###MainFeedbackForms
 alternet.org##.comments.disqus-comments
 animaltracks.today.com##.discuss_page_break
 bbc.co.uk##.dna-comments_module.preset_opinion
 beforeitsnews.com###comments
+bigstory.ap.org##.clearfix.comment-block
 blogs.wsj.com##.postcomments
 bloomberg.com###disqus_wrapper
 breitbart.com###dsq-content
@@ -32,20 +36,28 @@ d2.guardian.co.uk##.d2
 dailymail.co.uk###reader-comments
 dailytelegraph.com.au###comments
 damemagazine.com##.col.col-uno
+darkroastedblend.com###comments
 dawn.com###comments
+discovermagazine.com##.comments
 disqus.com###conversation
 economist.com###comments-area
 economist.com##.ec-comments-links-box.clearfix
 economist.com##.view-comments
+engadget.com###comments
 examiner.com##.comments
+express.co.uk##.commentsContainer
 facebook.com##.fbFeedbackContent
 forbes.com###comments
 forbes.com##.comment_bug
 forbes.com##.comment_bug.article_footer
 france24.com###comments
+gawker.com###comments
+gizmodo.com##.spinner
+gonzotimes.com###comments
 guardian.co.uk##.comment-count
 gulfnews.com###readersComments
 haaretz.com##.menu.twocols
+heraldscotland.com###disqus_comments_section
 heraldsun.com.au##.group.item-count-2.comments-group
 huffingtonpost.co.uk##.comments
 huffingtonpost.com##.comments
@@ -53,10 +65,17 @@ huffingtonpost.com##.comments_block_holder
 independent.co.uk##.disqus.greyRuler
 independent.co.uk##.strapLine.gotocomments
 independent.ie###disqus_thread
+inquisitr.com##.icon.comments
+io9.com###comments
 irishtimes.com###realtidbits-comments-wrapper
+jalopnik.com##.spinner
+japantimes.co.jp###disqus_thread
+jezebel.com##.spinner
 latimes.com##.comments
 lavanguardia.com##.lv24hcomentario
+lifehacker.com###comments
 metronews.ca###disqus_thread
+miamiherald.com###pluck
 mirror.co.uk##.pluck-wrap
 msnbc.msn.com###slice2
 nbcnews.com##.commentArea
@@ -64,8 +83,11 @@ nbcnews.com##.comments_jump
 nbcnews.com##.comments_link
 nbcnews.com##.discuss_page_break
 nbcnews.com##.number_bubble
+newrepublic.com###discourse
 news.com.au###comments
 news24.com###comments_wrap
+newser.com###CommentsShort
+newser.com###tab2
 newstatesman.com###content_column_bottom
 ninemsn.com.au###ugc_write_2
 ninemsn.com.au##.ugc_write
@@ -73,10 +95,16 @@ npr.org###commentBlock
 npr.org##.comment
 nytimes.com###commentsContainer
 nytimes.com##.commentsContainer
+patheos.com###disqus_thread
+pbs.org###comment-policy
+pbs.org###disqus_comment
 pinknews.co.uk##.commentspop
 politico.com###comments
 pri.org###box_comments
+propublica.org###comments
 reuters.com##.articleComments
+rferl.org##.article_comments
+rferl.org##.commentico
 rockpapershotgun.com###comments
 rt.com##.comments_topic
 rt.com##.comments_topic.bb_news
@@ -87,6 +115,10 @@ slate.com###article_comment_box
 slate.com##.sl-chunky-button.sl-chunky-comments
 spectator.com##.comments
 spiegel.de##.spCommentsBox.spClearfix
+stableytimes.com###lf_comment_stream
+techcrunch.com###fyre-comment-count
+techcrunch.com##.comment-count
+techcrunch.com##.platform.comments
 telegraph.co.uk###disqus_thread
 telegraph.co.uk##.dsq-brlink
 theatlantic.com###comments
@@ -94,6 +126,9 @@ theatlanticwire.com##.comments
 theaustralian.com.au##.story-comments
 theblaze.com###comments
 thejakartaglobe.com###comment_contents
+thejournal.ie###comments
+thejournal.ie###respond
+thejournal.ie##.commentList.border
 thelocal.se###comments
 thenational.ae###add_comments_block
 thestar.com##.tdComment.tdCommentDefault
