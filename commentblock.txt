@@ -8,7 +8,7 @@
 ! 
 ! Please report any unblocked comments or problems
 ! on github (https://github.com/freenode-feminists/CommentBlock/issues)
-! or via IRC (ircs://chat.freenode.net:6697/%23%23feminist).
+! or via IRC (ircs://chat.freenode.net:6697/%23%23feminism).
 ! 
 !-----------------------General comment element filters-----------------------!
 !------------------------Please keep list alphabetical------------------------!
