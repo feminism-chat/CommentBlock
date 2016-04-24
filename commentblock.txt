@@ -108,6 +108,7 @@ english.alarabiya.net##.panel.comments
 examiner.com##.comments
 express.co.uk##.commentsContainer
 facebook.com##.fbFeedbackContent
+freenode-feminism.github.io/*
 forbes.com###comments
 forbes.com##.comment_bug
 forbes.com##.comment_bug.article_footer
